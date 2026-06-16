@@ -27,7 +27,7 @@ const Projects = () => {
           </p>
 
           <button
-          onClick={() => window.location.href = "http://localhost:5174"}
+          onClick={() => window.location.href = "https://task-rho-rust.vercel.app/"}
             className="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-lg font-semibold"
           >
             View Project
@@ -49,7 +49,7 @@ const Projects = () => {
           </p>
 
           <button
-            onClick={() => window.location.href = "http://localhost:5175"}
+            onClick={() => window.location.href = "https://navi-route.vercel.app/"}
             className="w-full bg-green-600 hover:bg-green-700 text-white py-3 rounded-lg font-semibold"
           >
             View Project
